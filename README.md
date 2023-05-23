@@ -41,6 +41,8 @@ For example we can think of diverting our focus from Furniture (especially: Tabl
 
 We can think of discounts in the range of 10-30% as they the range would not only increase our sales but will also keep us quite profitable.
 
+<img width="319" alt="image" src="https://github.com/VimalChamyal/ecommerce-data-analysis/assets/101229988/e7c07c55-6259-4d98-a9bc-c0618d937962">
+
 
 ## D. Portfolio mix
 
