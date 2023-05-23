@@ -12,12 +12,12 @@ MS Excel, Python, Google Colab, PowerBI
 3. Loaded the dataset in Power BI for the interactive visualization of my key findings. The file name is 'ecommerce_dataset.pbix'
 4. Tried to make the dashboards appealing.
 
-Please refer to 'SampleDataset.csv', 'ecommerce_eda.ipynb' & 'ecommerce_dataset.pbix' for reference.
+Please find 'SampleDataset.csv', 'ecommerce_eda.ipynb' & 'ecommerce_dataset.pbix' files above for reference.
 
 
 # Key insights
 
-A. Working on the Loss making category | 'Furniture' Category
+## A. Working on the Loss making category | 'Furniture' Category
 
 1. 'Furniture' Category is accounting for around 32% of the total sales but is able to yield just 6.44% of the total profit. Especially due to the 'Tables' sub category our profit is getting serverly impacted. We can think of avoiding 'Tables' in 'East', 'Central', 'South' region. We can still think of penetrating with 'Tables' in 'West' region where the sub-category is still quite profitable.
 
@@ -29,19 +29,19 @@ A. Working on the Loss making category | 'Furniture' Category
 </div>
 
 
-B. Boosting the best | 'Technology' Category & 'West' Region
+## B. Boosting the best | 'Technology' Category & 'West' Region
 
 'Technology' seems to be the best performing category for us. In this category the sales of sub categories like 'Copiers' & 'Accessories' can be increased across all the segements to bolster our profit, especially in the 'West' Region.
 
 For example we can think of diverting our focus from Furniture (especially: Tables, Bookcases & Chairs from the West) to Technology (especially: 'Copiers', 'Accessories', 'Phones')
 
 
-C. The best discount
+## C. The best discount
 
 We can think of discounts in the range of 10-30% as they the range would not only increase our sales but will also keep us quite profitable.
 
 
-D. Portfolio mix
+## D. Portfolio mix
 
 We can surely think of promoting few sub-categories for different segments.
 
@@ -54,7 +54,7 @@ For example: For 'Corporate' segment we can think of promoting 'Copiers' and 'Ac
 </div>
 
 
-E. I will keep on adding more insights as I come across. Till the time please check out the 5 dashboards in 'ecommerce_dataset.pbix' file that I've made using Power BI.
+## E. I will keep on adding more insights as I come across. Till the time please check out the dashboards in 'ecommerce_dataset.pbix' file that I've made using Power BI.
 
 Attaching screenshots of the dashboards for reference. Please find above or Click <a href="https://raw.githubusercontent.com/VimalChamyal/ecommerce-data-analysis/main/ecommerce_dataset.pbix">here</a> for the 'ecommerce_dataset.pbix' file.
 
