@@ -17,6 +17,7 @@ Please find 'SampleDataset.csv', 'ecommerce_eda.ipynb' & 'ecommerce_dataset.pbix
 
 # Key insights
 
+
 ## A. Working on the Loss making category | 'Furniture' Category
 
 1. 'Furniture' Category is accounting for around 32% of the total sales but is able to yield just 6.44% of the total profit. Especially due to the 'Tables' sub category our profit is getting serverly impacted. We can think of avoiding 'Tables' in 'East', 'Central', 'South' region. We can still think of penetrating with 'Tables' in 'West' region where the sub-category is still quite profitable.
