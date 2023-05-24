@@ -51,7 +51,7 @@ We can surely think of promoting few sub-categories for different segments.
 For example: For 'Corporate' segment we can think of promoting 'Copiers' and 'Accessories' from the Technology sub-category + 'Paper' from the Office Supplies category & at the same time we can decrease our focus from 'Chairs', and 'Tables' from the Furniture Category + 'Machines' from the Technology category.
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 <img width="305" alt="image" src="https://github.com/VimalChamyal/ecommerce-data-analysis/assets/101229988/01456317-2fee-466e-8a41-d9fb1951b9b2">
 <img width="303" alt="image" src="https://github.com/VimalChamyal/ecommerce-data-analysis/assets/101229988/b7e6b9c3-ef12-4af7-a3a8-6e4d5a53aa7a">
 </div>
