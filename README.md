@@ -6,7 +6,7 @@ In this assignment I've worked on an ecommerce dataset. My objective was to come
 # Tools used & my approach
 
 MS Excel, Python, Google Colab, PowerBI
-
+ 
 1. Loaded 'SampleDataset.csv' on Excel to get acquainted with the data.
 2. Imported the csv file in google colab to understand the data better by performing EDA using python. Was able to find few key metrics on which I could focus while working on data visualization. The notebook is named 'ecommerce_eda.ipynb'
 3. Loaded the dataset in Power BI for the interactive visualization of my key findings. The file name is 'ecommerce_dataset.pbix'
